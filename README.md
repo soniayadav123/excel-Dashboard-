@@ -1,3 +1,4 @@
+Ferns and petals sales Analysis
 Project Overview
 This project is an interactive Excel-based Sales Analysis Dashboard for Ferns and Petals (FNP), a leading company specializing in sending gifts such as cakes, flowers, chocolates, soft toys, and personalized items for various occasions like Diwali, Raksha Bandhan, Valentine's Day, Birthdays, and Anniversaries.
 
