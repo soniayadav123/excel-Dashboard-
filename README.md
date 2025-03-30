@@ -10,7 +10,7 @@ The dashboard provides data-driven insights into sales trends, customer behavior
 ✅ Analyze how sales fluctuate based on occasions, locations, and delivery times.
 ✅ Provide data-driven recommendations to improve operational efficiency.
 
-🎯 Business Objectives & Key Insights
+# Business Objectives & Key Insights
 The analysis is focused on answering the following critical business questions:
 
 1️⃣ Total Revenue Analysis
@@ -63,7 +63,7 @@ Identifies the best-selling products for each occasion.
 
 Helps in seasonal product planning and marketing campaigns.
 
-📊 Features of the Dashboard
+# Features of the Dashboard
 🔹 Dynamic Visualizations
 The dashboard includes interactive charts and graphs for a clear representation of trends and insights.
 
@@ -96,16 +96,16 @@ Helps in geographical targeting and expansion strategies.
 📷 Screenshots of the Dashboard
 (Replace with actual image link in your repository)
 
-📌 The dashboard provides a detailed, structured, and interactive interface to track sales performance efficiently.
+# The dashboard provides a detailed, structured, and interactive interface to track sales performance efficiently.
 
-📈 Key Business Insights & Learnings
+## Key Business Insights & Learnings
 🔹 Peak sales occur during major festivals like Valentine’s Day, Raksha Bandhan, and Diwali.
 🔹 Cakes, flowers, and personalized gifts are the top-selling categories.
 🔹 Metro cities contribute significantly to total sales, indicating a need for better marketing in smaller towns.
 🔹 Average delivery time remains consistent, but bulk orders sometimes take longer.
 🔹 Customer spending is highest during festive seasons, meaning discounts and promotions should be planned accordingly.
 
-🚀 Future Enhancements & Scalability
+# Future Enhancements & Scalability
 🔹 Automating data updates using Power Query to eliminate manual input.
 🔹 Integration with Power BI for advanced interactive dashboards and better UI.
 🔹 Predictive Analytics using Python or R to forecast sales trends.
