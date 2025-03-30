@@ -111,4 +111,5 @@ Helps in geographical targeting and expansion strategies.
 🔹 Predictive Analytics using Python or R to forecast sales trends.
 🔹 Sentiment Analysis on customer reviews to understand product preferences.
 🔹 Web Scraping for Competitive Analysis to compare sales with competitors.
-
+## Data Used
+<a href="https://github.com/soniayadav123/excel-Dashboard-/blob/main/Dashboard.xlsx">DataSet</a>
