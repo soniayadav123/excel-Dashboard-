@@ -3,7 +3,7 @@ Project Overview
 This project is an interactive Excel-based Sales Analysis Dashboard for Ferns and Petals (FNP), a leading company specializing in sending gifts such as cakes, flowers, chocolates, soft toys, and personalized items for various occasions like Diwali, Raksha Bandhan, Valentine's Day, Birthdays, and Anniversaries.
 
 The dashboard provides data-driven insights into sales trends, customer behavior, and product performance, helping businesses optimize their strategies to enhance revenue and customer satisfaction.
-
+## DataSet Used
 # This project aims to:
 ✅ Identify key sales trends based on orders, revenue, and customer preferences.
 ✅ Track top-performing products and customer spending behavior.
@@ -111,5 +111,5 @@ Helps in geographical targeting and expansion strategies.
 🔹 Predictive Analytics using Python or R to forecast sales trends.
 🔹 Sentiment Analysis on customer reviews to understand product preferences.
 🔹 Web Scraping for Competitive Analysis to compare sales with competitors.
-## Data Used
+## DataSet Used
 <a href="https://github.com/soniayadav123/excel-Dashboard-/blob/main/Dashboard.xlsx">DataSet</a>
