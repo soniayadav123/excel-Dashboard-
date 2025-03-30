@@ -95,7 +95,7 @@ Helps in geographical targeting and expansion strategies.
 🔹 Excel Formulas – Used for revenue calculations and trend analysis.
 🔹 Conditional Formatting – Highlights key insights dynamically.
 
-Dashboard Interaction <a href="
+Dashboard Interaction <a href="https://github.com/soniayadav123/excel-Dashboard-/blob/main/Screenshot%202025-03-27%20231420.png"> View Dashboad </a>
 
 # The dashboard provides a detailed, structured, and interactive interface to track sales performance efficiently.
 
