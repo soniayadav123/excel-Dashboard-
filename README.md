@@ -4,6 +4,8 @@ This project is an interactive Excel-based Sales Analysis Dashboard for Ferns an
 
 The dashboard provides data-driven insights into sales trends, customer behavior, and product performance, helping businesses optimize their strategies to enhance revenue and customer satisfaction.
 ## DataSet Used
+<a href="https://github.com/soniayadav123/excel-Dashboard-/blob/main/Dashboard.xlsx">DataSet</a>
+
 # This project aims to:
 ✅ Identify key sales trends based on orders, revenue, and customer preferences.
 ✅ Track top-performing products and customer spending behavior.
@@ -93,8 +95,7 @@ Helps in geographical targeting and expansion strategies.
 🔹 Excel Formulas – Used for revenue calculations and trend analysis.
 🔹 Conditional Formatting – Highlights key insights dynamically.
 
-📷 Screenshots of the Dashboard
-(Replace with actual image link in your repository)
+Dashboard Interaction <a href="
 
 # The dashboard provides a detailed, structured, and interactive interface to track sales performance efficiently.
 
@@ -111,5 +112,3 @@ Helps in geographical targeting and expansion strategies.
 🔹 Predictive Analytics using Python or R to forecast sales trends.
 🔹 Sentiment Analysis on customer reviews to understand product preferences.
 🔹 Web Scraping for Competitive Analysis to compare sales with competitors.
-## DataSet Used
-<a href="https://github.com/soniayadav123/excel-Dashboard-/blob/main/Dashboard.xlsx">DataSet</a>
