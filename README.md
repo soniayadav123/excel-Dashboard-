@@ -89,7 +89,10 @@ Bar charts highlight top-performing cities.
 
 Helps in geographical targeting and expansion strategies.
 
-🛠 Tools & Technologies Used
+![Screenshot 2025-03-27 231420](https://github.com/user-attachments/assets/1d39a901-10bf-41e3-985d-acd2771f23c9)
+
+## Tools & Technologies Used
+
 🔹 Microsoft Excel – Data visualization, Pivot Tables, and Slicers.
 🔹 Pivot Charts – Used for tracking sales trends and customer preferences.
 🔹 Excel Formulas – Used for revenue calculations and trend analysis.
